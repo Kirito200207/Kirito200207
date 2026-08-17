@@ -1,4 +1,4 @@
-# 👋 你好，我是 Kirito
+# 👋 你好，我是 Chen Yutong（Kirito）
 
 > **AI 产品经理** · 关注大模型应用与智能出行
 > **AI Product Manager** · LLM Applications & Smart Mobility
@@ -51,6 +51,6 @@ Built an elderly-friendly bus travel assistant from 0 to 1. Exploring how LLMs t
 
 ## 📬 联系我 / Contact
 
-- 🌐 个人网站：[kirito200207.github.io](https://kirito200207.github.io)
+- 📧 邮箱：kirito2002@163.com`n- 🌐 个人网站：[kirito200207.github.io](https://kirito200207.github.io)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirito200207&layout=compact)
