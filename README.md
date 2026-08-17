@@ -51,6 +51,7 @@ Built an elderly-friendly bus travel assistant from 0 to 1. Exploring how LLMs t
 
 ## 📬 联系我 / Contact
 
-- 📧 邮箱：kirito2002@163.com`n- 🌐 个人网站：[kirito200207.github.io](https://kirito200207.github.io)
+- 📧 邮箱：kirito2002@163.com
+- 🌐 个人网站：[kirito200207.github.io](https://kirito200207.github.io)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirito200207&layout=compact)
